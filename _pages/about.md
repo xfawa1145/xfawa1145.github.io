@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "xf.wiki"
+title: "xfawa.wiki"
 author_profile: true
 redirect_from: 
   - /about/
