@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop" # 车间
 permalink: /teaching/2015-spring-teaching-1
 venue: "-"
-date: 2015-01-01
+date: 更新日期：2024.11.16
 location: "-"
 ---
 
