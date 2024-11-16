@@ -1,7 +1,5 @@
 ---
 title: "攻略"
-collection: teaching
-type: "essay"
 ---
 
 ## **攻略；**
