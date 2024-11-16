@@ -1,7 +1,7 @@
 ---
 title: "攻略"
 collection: teaching
-type: "Workshop"
+type: "essay"
 ---
 
 ## **攻略；**
