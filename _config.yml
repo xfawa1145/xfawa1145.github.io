@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-US"
 title                    : "xfawa.wiki 共享坑爹生活！awa"
-title_separator          : "-"
+title_separator          : "-" # 标题_分隔符
 name                     : # &name ""
 description              : # &description "personal description"
 url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : # "" # 您的站点的子路径，例如“/blog”
+repository               : # "academicpages/academicpages.github.io" # 仓库
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -48,8 +48,8 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # Social mediat
+  bluesky          : # "bsky.app" # Replace this 替换这个 with you Bluesky username 蓝天
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
