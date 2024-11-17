@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "未编辑文章"
-    url: /talks/    
+    url: /404.mistake/    
 
   - title: "攻略"
-    url: /teaching/    
+    url: /xf.gl/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "更新日志"
+    url: /xf.gxrz/
     
   - title: "Guide"
     url: /markdown/
