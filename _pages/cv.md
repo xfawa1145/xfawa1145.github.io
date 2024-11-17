@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "更新日志"
-permalink: /xf.更新日志/ # 永久链接
-author_profile: true
-redirect_from:
-  - /resume
+permalink: /xf.gxrz/ # 永久链接
+author_profile: false
+redirect_from: # 重定向_自
 ---
 <u> 更新日志 </u> 
     <hr/>
